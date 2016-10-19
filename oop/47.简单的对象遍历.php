@@ -5,6 +5,10 @@
  * Date: 2016/10/18
  * Time: 18:46
  */
+
+/**
+ * 默认情况下，所有可见属性都将被用于遍历。
+ */
 class MyClass
 {
     public $var1 = 'value 1';
